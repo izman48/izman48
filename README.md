@@ -1,7 +1,5 @@
 ### Hi, I'm Iesa 👋
 
-**Senior Software Engineer at Bloomberg.**
-
 # How to work with me
 
 Plenty of people keep a short "how to work with me" manual — a user guide to themselves. This is mine. It's a shortcut for teammates, mentees, candidates, and anyone collaborating with me on a project, written in my personal capacity and reflecting how I like to work rather than the position of any organisation I'm associated with.
