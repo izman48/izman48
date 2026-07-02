@@ -1,37 +1,31 @@
 ### Hi, I'm Iesa 👋
 
+London-based engineer. I enjoy building cool stuff, and I'm founding nilu inc. More at [iesawazeer.com](https://iesawazeer.com/).
+
 # How to work with me
 
-Plenty of people keep a short "how to work with me" manual — a user guide to themselves. This is mine. It's a shortcut for teammates, mentees, candidates, and anyone collaborating with me on a project, written in my personal capacity and reflecting how I like to work rather than the position of any organisation I'm associated with.
+A shortcut for anyone collaborating with me, written for myself rather than any employer.
 
-*Don't treat this as a rulebook. It's a shortcut to getting on the same page faster. Ignore anything that doesn't fit the situation.*
+## If you're sending me something
 
-## From you to me
+Lead with the ask, and put it where I can't miss it — first line, not paragraph three. Tell me what you've tried and where you got stuck, not just that it's broken. I'd rather see the rough draft on day one than the polished thing a week late and pointed the wrong way — that's true of code, docs, everything.
 
-- **Lead with the ask.** Tell me what you need and by when, up front. If there's an action for me, make it unmissable — put it in the subject line or the first sentence, not buried three paragraphs down.
-- **State your uncertainties and assumptions.** I'd much rather you flag "I think X but I'm not sure" than present a guess as a fact. It tells me where to look.
-- **Bring a goal, not just a problem.** "I want to achieve X, I've tried Y, I'm stuck on Z" gets a far better response from me than "this is broken."
-- **Unpolished and timely beats polished and late.** Send me the rough draft, the half-formed idea, the early warning. I'd rather course-correct on day one than admire a finished thing going the wrong way.
-- **Prefer async by default.** A clear message (Slack, email, a doc, a PR comment) is usually better than an unplanned call — it gives me time to think and gives us both a written record. *Exception: if you're blocked and I'm the blocker, interrupt me.*
-- **For anything substantial, write it down.** A short doc or ticket beats a long thread. It's easier to review, comment on, and find again later.
-- **Default to communicating in the open** (channels, not DMs) so others can learn from it later — unless it's personal or sensitive.
+Default to writing it down over talking about it — a message, a PR comment, a doc. It's searchable later and it forces the thinking to actually happen. The exception is when I'm the blocker: then just interrupt me.
 
-## From me to you
+## If I'm sending you something
 
-- **I'll ask a few clarifying questions, then get moving.** I won't interrogate you, but I'll usually check the goal and the constraints before diving in. Vague requirements are where projects quietly go wrong.
-- **I work in small iterations.** Expect me to ship something rough early and refine it with you, rather than disappear and return with a finished artifact. If I'm heading the wrong way, the sooner you tell me the cheaper it is to fix.
-- **I optimise for the code that's still readable in two years.** I'll favour maintainability and clarity over cleverness, and I'll push back (kindly) on shortcuts that we'll pay for later.
-- **I write tests first where it makes sense.** If you see me building the test before the feature, that's deliberate — it keeps the design honest and the scope tight.
-- **Assume misunderstanding, not malice.** If something I said landed badly, it's almost certainly clumsy wording, not intent. Tell me and I'll fix it.
-- **I don't always send acknowledgement messages.** No reply for a bit usually means I'm heads-down or overloaded, not that I'm ignoring you. Nudge me if it's time-sensitive.
-- **I'll give you honest, direct feedback** — and I want the same back. Feedback is a gift, even the uncomfortable kind.
+I'll ask a lot of questions up front, before I start — I'd rather we're properly aligned than find out three days in that I built the wrong thing. That's the front-loaded part; once I'm actually building, I'm not narrating progress.
 
-## How I think about the work
+I'll tell you what I want from you when I hand something over. If I ask for a review early, I'll say what kind (sanity check vs. full review). If I don't say, assume I've tested it thoroughly myself and I'm asking for the full review — I don't hand off half-baked work by default.
 
-- **Goals first, then sprints.** I like a clear objective and short, visible cycles of progress against it. Momentum compounds.
-- **Maintainable above all.** Readable, well-tested, boring-in-a-good-way code beats a clever one-liner nobody can touch.
-- **Tight feedback loops.** The faster we learn we're wrong, the better everything gets.
+I like experimenting and understanding things properly before I commit to an approach, but that happens in the questions phase, not in what lands in your inbox.
 
-## How to reach me
+Slow replies usually mean heads-down, not ignoring you — nudge me if it's actually urgent.
 
-- **Discord:** `izman48` — best for a quick message or to start a conversation.
+## How I think about the work itself
+
+Depth over breadth. I'd rather get one part of a system genuinely right than have five half-built features. If a claim's checkable, I'd rather prove it (benchmark, test, graph) than assert it.
+
+## Reach me
+
+**Discord:** `izman48` — quickest way to get my attention.
